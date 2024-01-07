@@ -64,7 +64,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: color: var(--Dark-02, #474747);
+    color: #474747;
 }
 
 /* header related styles */
